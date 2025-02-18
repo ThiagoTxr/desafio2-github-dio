@@ -1,6 +1,6 @@
 # desafio2-github-dio
 
-### Desafio 2 DIO - GutHub
+### Desafio 2 DIO - GitHub
 
 #### O desafio: utilizar ferramentas de inteligência artificial (GitHub Copilot ou Chat GPT) para desenvolvimento de algoritmos.
 
